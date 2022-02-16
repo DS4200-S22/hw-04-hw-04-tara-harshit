@@ -1,0 +1,29 @@
+* {
+    font-family: Arial
+}
+
+h1 {
+    text-align: center; 
+}
+
+.circle1{
+    fill: lightblue;
+    stroke: black;
+    stroke-width: 6px;
+    stroke: 2,2;
+    stroke-linejoin: round;
+}
+
+
+
+.circle2 {
+    fill: pink; 
+}
+
+.circle3 {
+    fill: grey;
+    stroke: black;
+    stroke-width: 6px;
+    stroke: 2,2;
+    stroke-linejoin: round;
+}
