@@ -14,7 +14,26 @@ h1 {
     stroke-linejoin: round;
 }
 
+.button1{
+    border:none;
+    background-color:transparent;
+    outline:none;
 
+}
+
+
+.button2{
+    border:none;
+    background-color:transparent;
+    outline:none;
+
+}
+.circle2:hover{
+    stroke: black;
+    stroke-width: 6px;
+    stroke: 2,2;
+    stroke-linejoin: round;
+}
 
 .circle2 {
     fill: pink; 
@@ -26,4 +45,9 @@ h1 {
     stroke-width: 6px;
     stroke: 2,2;
     stroke-linejoin: round;
+    opacity: 1;
+}
+
+#c3{
+    opacity: 1;
 }

@@ -8,21 +8,26 @@
     <h1>Event Handling</h1>
 </head>
 
-<svg width="415" height="200">
+
+<body>
+<button type="button" class="button1" onClick="button1Clicked()">
+<svg class = "circle1svg" width="415" height="200">
     <circle class = "circle1" cx="50%" cy="50%" r="75"/>
+    <text id="numbertimes" x="200" y="105" class="heavy">0</text>
+
 </svg>
+</button>
 
 <svg width = "415" height = "200">
     <circle class ="circle2" cx = "50%" cy='50%' r = "75"/>
-</svg> 
-
-<svg width = "415" height ="200"> 
-    <circle class = "circle3" cx = "50%" cy='50%' r = "75"/>
 </svg>
 
-<body>
-
-
+<button type="button" class="button2" onClick="button2Clicked()">
+<svg width = "415" height ="200">
+    <circle id = "c3" class = "circle3" cx = "50%" cy='50%' r = "75" fill-opacity="100"/>
+</svg>
+</button>
+<script type="text/javascript" src="main.js"></script>
 </body>
 
 </html>
