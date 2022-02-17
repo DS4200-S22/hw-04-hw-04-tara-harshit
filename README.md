@@ -1,7 +1,7 @@
 # hw-04
 hw-04 - Event Handling 
 
-Link to GitHub Pages: `https://ds4200-s22.github.io/hw-04-hw-04-tara-harshit/`
+Link to GitHub Pages: https://ds4200-s22.github.io/hw-04-tara-harshit/
 
 ## Purpose
 
